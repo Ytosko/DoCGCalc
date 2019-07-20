@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DoCGCalc</string>
+    <string name="title">by Ytosko</string>
+    <string name="your_cgpa_is">Your CGPA is :</string>
+    <string name="your_cgpa_is1">Your CGPA is</string>
+    <string name="sl1"><b><u>Serial</u></b></string>
+    <string name="sl2"> <b><u>Course</u></b></string>
+    <string name="sl3"> <b><u>Credit</u></b></string>
+    <string name="sl4"> <b><u>GPA</u></b></string>
+</resources>

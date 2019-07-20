@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".Print">
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="357dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="27dp"
+        android:layout_marginTop="29dp"
+        android:layout_marginEnd="27dp"
+        android:layout_marginBottom="7dp"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/inst"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/inst"
+        android:layout_width="357dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="27dp"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="27dp"
+        android:layout_marginBottom="10dp"
+        android:ems="10"
+        android:hint="Inistitute"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/dept"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/name" />
+
+    <EditText
+        android:id="@+id/dept"
+        android:layout_width="357dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="27dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="27dp"
+        android:layout_marginBottom="8dp"
+        android:ems="10"
+        android:hint="Department"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/ss"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/inst" />
+
+    <EditText
+        android:id="@+id/ss"
+        android:layout_width="357dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="27dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="27dp"
+        android:layout_marginBottom="9dp"
+        android:ems="10"
+        android:hint="Session"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/mail"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/dept" />
+
+    <EditText
+        android:id="@+id/mail"
+        android:layout_width="357dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="27dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="27dp"
+        android:layout_marginBottom="433dp"
+        android:ems="10"
+        android:hint="E-mail"
+        android:inputType="textEmailAddress"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ss" />
+
+    <Button
+        android:id="@+id/PN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="161dp"
+        android:layout_marginTop="41dp"
+        android:layout_marginEnd="162dp"
+        android:layout_marginBottom="342dp"
+        android:background="@android:color/holo_red_light"
+        android:text="Print now"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.Button"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mail" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="148dp"
+        android:layout_height="33dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="282dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="27dp"
+        android:text="Coded by 2016133091"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.PopupMenu.Header"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/PN"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ScrollView
+        android:layout_width="359dp"
+        android:layout_height="250dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.321"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/PN"
+        app:layout_constraintVertical_bias="0.0">
+
+        <LinearLayout
+            android:layout_width="360dp"
+            android:layout_height="332dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/show1"
+                android:layout_width="359dp"
+                android:layout_height="1332dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:textColor="@android:color/darker_gray"
+                android:textSize="15dp" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

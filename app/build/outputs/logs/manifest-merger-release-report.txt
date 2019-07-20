@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c10886a8036d3a19c4c56368af003610\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7d7906f5fb674b0225018661fc35009f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2e951e6ec72f930bda833c1ca758e66c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\AwesomeSplash-v1.0.0.aar\2ad29eff8da1080229bcee0d0a23fcbf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f6b93cd2f0db5dc2cf165f1bcd05bbdb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\c7109cd13d33584b7ce34c14261c0d18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9909d4a14ffddda2a6fd2aa528654f9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6ffabeed45cf468090eccd48bddc521a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\71d634659c7759a9431a49853c7a44da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5a6369103292e431a695bb96dde0b492\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\40f22f6282abe8fb37639bd7d08b1181\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\40a533bc4d41ec41b097cab5232baed0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\00e4569defb758fb1d5c75cb0fcd717f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8dd9565ac1f10694dd227eddfa630d92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3d91400ddd6b85bbf9c167e703bc491e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d2210079762f66db540aebd1a94d518c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\61b8a114d0e873cc2570970930a3dc1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\10c0ffd6766f4b19336c67bb052cb076\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8470cb8060a1e7fb93adf0cc1e3ca98f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\151dc6ba867ac65626bda5ec2521ae93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2f64824de24c43d25677fadcb3448ed1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4ad1b370aa39aeca69e3168e32e6f4a7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\795545fecf87dddf70b034772a82ebdc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\0fce105400e15efc3567ca6656326112\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\988405717dea58324a2ff49239aa1e18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\96542d22bc2d46d5dedb03e52246415a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5b5117a2d5f149553d35eeddf7f5e909\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\699d69be78a538fa3d3430ae5be4d8d3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1d0138dd699e56c4b63e18d24ff68b50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7f7583a934144adfc5a18d0dc96b14ce\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5d07df571db558b6d435df81f34012fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0725cffeb6b74653bb6736c03a49952c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9a8443db1b3909b5fbcb3bba86d4a016\AndroidManifest.xml:17:1-22:12
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\58fe894a2061626629a7e65c493a050c\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\684a79348ea42e7e0d8cd11902376251\AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\23cd1816a6f13f9de066f41b00fde3c5\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\c86df5eb8bb09b0cf560c792195b0aeb\AndroidManifest.xml:2:1-12:12
+INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml
+		INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:4:5-51
+	xmlns:dist
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:2:11-69
+dist:module
+ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:7:5-40
+	dist:instant
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:7:18-37
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:10:22-63
+application
+ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:12:5-38:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c10886a8036d3a19c4c56368af003610\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c10886a8036d3a19c4c56368af003610\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2e951e6ec72f930bda833c1ca758e66c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2e951e6ec72f930bda833c1ca758e66c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2f64824de24c43d25677fadcb3448ed1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2f64824de24c43d25677fadcb3448ed1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4ad1b370aa39aeca69e3168e32e6f4a7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4ad1b370aa39aeca69e3168e32e6f4a7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\684a79348ea42e7e0d8cd11902376251\AndroidManifest.xml:10:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\684a79348ea42e7e0d8cd11902376251\AndroidManifest.xml:10:5-20
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\c86df5eb8bb09b0cf560c792195b0aeb\AndroidManifest.xml:9:5-10:19
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\c86df5eb8bb09b0cf560c792195b0aeb\AndroidManifest.xml:9:5-10:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2f64824de24c43d25677fadcb3448ed1\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:15:9-40
+		REJECTED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\c86df5eb8bb09b0cf560c792195b0aeb\AndroidManifest.xml:9:18-50
+	android:roundIcon
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:18:9-40
+	tools:replace
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:19:9-30
+activity#com.ytosko.cgcalc.Print
+ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:20:9-21:51
+	android:screenOrientation
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:20:19-40
+activity#com.ytosko.cgcalc.MainActivity
+ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:22:9-25:68
+	android:screenOrientation
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:24:13-49
+	android:windowSoftInputMode
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:23:13-41
+activity#com.ytosko.cgcalc.Display
+ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:26:9-28:52
+	android:screenOrientation
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:27:13-36
+activity#com.ytosko.cgcalc.Splash
+ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:29:9-37:20
+	android:screenOrientation
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:30:13-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml
+INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c10886a8036d3a19c4c56368af003610\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c10886a8036d3a19c4c56368af003610\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7d7906f5fb674b0225018661fc35009f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7d7906f5fb674b0225018661fc35009f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2e951e6ec72f930bda833c1ca758e66c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2e951e6ec72f930bda833c1ca758e66c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\AwesomeSplash-v1.0.0.aar\2ad29eff8da1080229bcee0d0a23fcbf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\AwesomeSplash-v1.0.0.aar\2ad29eff8da1080229bcee0d0a23fcbf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f6b93cd2f0db5dc2cf165f1bcd05bbdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f6b93cd2f0db5dc2cf165f1bcd05bbdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\c7109cd13d33584b7ce34c14261c0d18\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\c7109cd13d33584b7ce34c14261c0d18\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9909d4a14ffddda2a6fd2aa528654f9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9909d4a14ffddda2a6fd2aa528654f9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6ffabeed45cf468090eccd48bddc521a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6ffabeed45cf468090eccd48bddc521a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\71d634659c7759a9431a49853c7a44da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\71d634659c7759a9431a49853c7a44da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5a6369103292e431a695bb96dde0b492\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5a6369103292e431a695bb96dde0b492\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\40f22f6282abe8fb37639bd7d08b1181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\40f22f6282abe8fb37639bd7d08b1181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\40a533bc4d41ec41b097cab5232baed0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\40a533bc4d41ec41b097cab5232baed0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\00e4569defb758fb1d5c75cb0fcd717f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\00e4569defb758fb1d5c75cb0fcd717f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8dd9565ac1f10694dd227eddfa630d92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8dd9565ac1f10694dd227eddfa630d92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3d91400ddd6b85bbf9c167e703bc491e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3d91400ddd6b85bbf9c167e703bc491e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d2210079762f66db540aebd1a94d518c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d2210079762f66db540aebd1a94d518c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\61b8a114d0e873cc2570970930a3dc1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\61b8a114d0e873cc2570970930a3dc1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\10c0ffd6766f4b19336c67bb052cb076\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\10c0ffd6766f4b19336c67bb052cb076\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8470cb8060a1e7fb93adf0cc1e3ca98f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8470cb8060a1e7fb93adf0cc1e3ca98f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\151dc6ba867ac65626bda5ec2521ae93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\151dc6ba867ac65626bda5ec2521ae93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2f64824de24c43d25677fadcb3448ed1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2f64824de24c43d25677fadcb3448ed1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4ad1b370aa39aeca69e3168e32e6f4a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4ad1b370aa39aeca69e3168e32e6f4a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\795545fecf87dddf70b034772a82ebdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\795545fecf87dddf70b034772a82ebdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\0fce105400e15efc3567ca6656326112\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\0fce105400e15efc3567ca6656326112\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\988405717dea58324a2ff49239aa1e18\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\988405717dea58324a2ff49239aa1e18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\96542d22bc2d46d5dedb03e52246415a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\96542d22bc2d46d5dedb03e52246415a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5b5117a2d5f149553d35eeddf7f5e909\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5b5117a2d5f149553d35eeddf7f5e909\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\699d69be78a538fa3d3430ae5be4d8d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\699d69be78a538fa3d3430ae5be4d8d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1d0138dd699e56c4b63e18d24ff68b50\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1d0138dd699e56c4b63e18d24ff68b50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7f7583a934144adfc5a18d0dc96b14ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7f7583a934144adfc5a18d0dc96b14ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5d07df571db558b6d435df81f34012fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5d07df571db558b6d435df81f34012fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0725cffeb6b74653bb6736c03a49952c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0725cffeb6b74653bb6736c03a49952c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9a8443db1b3909b5fbcb3bba86d4a016\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9a8443db1b3909b5fbcb3bba86d4a016\AndroidManifest.xml:20:5-44
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\58fe894a2061626629a7e65c493a050c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\58fe894a2061626629a7e65c493a050c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\684a79348ea42e7e0d8cd11902376251\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\684a79348ea42e7e0d8cd11902376251\AndroidManifest.xml:6:5-8:41
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\23cd1816a6f13f9de066f41b00fde3c5\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\23cd1816a6f13f9de066f41b00fde3c5\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\c86df5eb8bb09b0cf560c792195b0aeb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Ytosk\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\c86df5eb8bb09b0cf560c792195b0aeb\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml
+INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml
+		INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml
+		ADDED from E:\DoCGCalc\app\src\main\AndroidManifest.xml
+		INJECTED from E:\DoCGCalc\app\src\main\AndroidManifest.xml

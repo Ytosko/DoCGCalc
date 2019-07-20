@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".Display">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="15dp" />
+
+    <TextView
+        android:id="@+id/Gshow"
+        android:layout_width="fill_parent"
+        android:layout_height="57dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="@string/your_cgpa_is1"
+        android:textColor="@android:color/black"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/GPA_dis"
+        android:layout_width="220dp"
+        android:layout_height="111dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Menu"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="60dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/ag"
+        android:layout_width="95dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:textColor="@android:color/white"
+        android:background="@android:color/holo_green_dark"
+        android:text="Calculate Again"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.Button" />
+
+    <Button
+        android:id="@+id/Print"
+        android:layout_width="95dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="@color/bckg"
+        android:text="Print"
+        android:textColor="@android:color/white"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.Button" />
+
+    <ScrollView
+        android:layout_width="359dp"
+        android:layout_height="332dp">
+
+        <LinearLayout
+            android:layout_width="360dp"
+            android:layout_height="332dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/show"
+                android:layout_width="359dp"
+                android:layout_height="1332dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:textColor="@android:color/darker_gray"
+                android:textSize="15dp" />
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>
