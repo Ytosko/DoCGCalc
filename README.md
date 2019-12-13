@@ -31,7 +31,7 @@
 	
 ## Source files : 
 * Codes : <a href="https://github.com/Ytosko/DoCGCalc/tree/master1/app/src/main/java/com/ytosko/cgcalc">DoCGCalc</a>
-	* Resources : <a href = "https://github.com/Ytosko/DoCGCalc/tree/master1/app/src/main/res">Drawable Folder</a>
+* Resources : <a href = "https://github.com/Ytosko/DoCGCalc/tree/master1/app/src/main/res">Drawable Folder</a>
 	
 # Thank you
 ## Saiki Sarkar
