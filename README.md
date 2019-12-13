@@ -1,4 +1,4 @@
-# DoCGCalc
+### DoCGCalc
 
 ## My first android project based on Android OS!
 
