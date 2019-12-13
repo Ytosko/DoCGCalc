@@ -1,3 +1,5 @@
+[logo]: https://github.com/Ytosko/DoCGCalc/blob/master1/app/src/main/res/drawable/p5s.png "DoCGCalc"
+
 # DoCGCalc
 
 ## My first android project based on Android OS!
